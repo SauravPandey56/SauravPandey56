@@ -1,10 +1,43 @@
-# 👋 Hi, I’m Saurav Pandey  
-Full Stack Developer | MCA Student  
-🔭 I build full-stack web apps using React, Node.js, Express & Tailwind CSS  
-📫 Connect on LinkedIn: https://linkedin.com/in/sauravpandey56  
-📌 GitHub Projects:  
-- 🔹 **Learning-Project** – Notes & Experiments  
-- 🔹 **DSA-With-Java** – Java DSA solutions  
-- 🔹 **Frontend-Project** – UI builds with Tailwind  
-- 🔹 **Backend_project-** – Backend APIs & logic  
-🛠 Skills: React, Node.js, Express, Java, HTML, CSS, Git  
+# 👋 Hi, I'm Saurav Pandey  
+
+🎓 MCA Student | 💻 Full Stack Developer | 🚀 Aspiring Software Engineer  
+
+I am passionate about building scalable and user-friendly web applications. I enjoy solving problems, learning new technologies, and converting ideas into real-world digital solutions.
+
+---
+
+## 🛠 Tech Stack & Skills
+
+- 💻 Languages: Java, JavaScript  
+- 🌐 Frontend: React.js, HTML, CSS, Tailwind CSS  
+- ⚙️ Backend: Node.js, Express.js  
+- 📊 Database: MySQL / MongoDB (if used)  
+- 🧩 Core: Data Structures & Algorithms  
+- 🔧 Tools: Git, GitHub, VS Code  
+
+---
+
+## 📌 Featured Projects
+
+- 📂 **DSA-With-Java** – Practice and implementation of DSA in Java  
+- 🌐 **Frontend-Project** – Responsive web UI projects  
+- ⚙️ **Backend_project** – Backend APIs and logic  
+- 📘 **Learning-Project** – Daily learning and experiments  
+
+---
+
+## 🎯 Career Objective
+
+I am currently seeking internship or entry-level opportunities in software development where I can apply my skills, gain industry experience, and contribute to impactful projects.
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: (Paste your LinkedIn link here)  
+- 🐙 GitHub: https://github.com/SauravPandey56  
+- 📧 Email: (Optional)
+
+---
+
+⭐ Feel free to explore my repositories and connect with me!
