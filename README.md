@@ -11,7 +11,7 @@ I am passionate about building scalable and user-friendly web applications. I en
 - 💻 Languages: Java, JavaScript  
 - 🌐 Frontend: React.js, HTML, CSS, Tailwind CSS  
 - ⚙️ Backend: Node.js, Express.js  
-- 📊 Database: MySQL / MongoDB (if used)  
+- 📊 Database: MySQL / MongoDB 
 - 🧩 Core: Data Structures & Algorithms  
 - 🔧 Tools: Git, GitHub, VS Code  
 
