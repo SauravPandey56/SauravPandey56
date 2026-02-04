@@ -34,9 +34,9 @@ I am currently seeking internship or entry-level opportunities in software devel
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Paste your LinkedIn link here)  
+- 💼 LinkedIn: www.linkedin.com/in/sauravpandey56
 - 🐙 GitHub: https://github.com/SauravPandey56  
-- 📧 Email: (Optional)
+- 📧 Email: pandeysaurav108@gmail.com
 
 ---
 
