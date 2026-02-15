@@ -55,13 +55,17 @@ I enjoy solving complex problems, learning new technologies, and continuously im
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 ---
+---
 
-## 💻 Coding Profiles
+## 💻 Competitive Programming
 
-- 🔗 LeetCode: https://leetcode.com/pandeysaurav108  
-- 🔗 GeeksforGeeks: https://auth.geeksforgeeks.org/user/sauravpandey56  
-- 🔗 CodeChef: https://www.codechef.com/users/pandeysaurav10  
-- 🔗 Codeforces: https://codeforces.com/profile/pandeysaurav108  
+I regularly practice Data Structures & Algorithms to improve analytical thinking and coding efficiency.
+
+- 🔹 LeetCode: https://leetcode.com/pandeysaurav108  
+- 🔹 GeeksforGeeks: https://auth.geeksforgeeks.org/user/sauravpandey56  
+- 🔹 CodeChef: https://www.codechef.com/users/pandeysaurav10  
+- 🔹 Codeforces: https://codeforces.com/profile/pandeysaurav108  
+
 
 
 ## 📫 Connect With Me
