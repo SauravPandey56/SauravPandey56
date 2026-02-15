@@ -36,7 +36,7 @@ I enjoy solving complex problems, learning new technologies, and continuously im
 <br><br>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauravPandey56&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+  src="https://streak-stats.demolab.com?user=SauravPandey56&theme=tokyonight&hide_border=true" 
   alt=""
 />
 <br><br>
@@ -45,6 +45,7 @@ I enjoy solving complex problems, learning new technologies, and continuously im
   src="https://github-readme-activity-graph.vercel.app/graph?username=SauravPandey56&theme=tokyo-night&hide_border=true" 
   alt=""
 />
+
 
 
 
