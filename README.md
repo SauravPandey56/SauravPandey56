@@ -47,9 +47,6 @@ I enjoy solving complex problems, learning new technologies, and continuously im
   />
   ---
 
-
-
-
 </section>
 
 
