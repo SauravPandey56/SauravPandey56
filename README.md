@@ -12,6 +12,14 @@ Currently open to internship and full-time opportunities in Full Stack Developme
 I enjoy solving complex problems, learning new technologies, and continuously improving both development and algorithmic skills.
 
 
+---
+
+## 🏆 Achievements
+
+- 📌 Solving Data Structures & Algorithms problems regularly
+- 🚀 Building Full Stack MERN Projects
+- 💡 Focused on Clean Architecture & Scalable Applications
+- 🎯 Actively preparing for internships in Full Stack Development
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sauravpandey56) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pandeysaurav108@gmail.com) 
@@ -37,6 +45,16 @@ I enjoy solving complex problems, learning new technologies, and continuously im
     src="https://github-readme-activity-graph.vercel.app/graph?username=SauravPandey56&theme=tokyo-night&hide_border=true" 
     alt="GitHub Activity Graph"
   />
+  ---
+
+## 📊 GitHub Stats
+
+![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauravPandey56&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SauravPandey56&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SauravPandey56&layout=compact&theme=tokyonight&hide_border=true)
+
 </section>
 
 
