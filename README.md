@@ -1,6 +1,7 @@
 ## 👋 About Me
 
-Turning ideas into scalable web applications 🚀
+Currently open to internship and full-time opportunities in Full Stack Development.
+
 
 🎓 MCA Student  
 ⚡ Full Stack Developer – MERN Stack  
