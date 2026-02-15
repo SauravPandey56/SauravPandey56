@@ -1,5 +1,15 @@
-# 💫 About Me:
-i am currently aspiring my MCA degree<br>i am a full stack developer <br>my stack is mern stack <br>i am aslo doing DSA with JAVA<br>
+## 👋 About Me
+
+Turning ideas into scalable web applications 🚀
+
+🎓 MCA Student  
+⚡ Full Stack Developer – MERN Stack  
+🧠 DSA Enthusiast (Java)  
+📦 Building real-world projects  
+📈 Focused on clean architecture & performance  
+
+I enjoy solving complex problems, learning new technologies, and continuously improving both development and algorithmic skills.
+
 
 
 ## 🌐 Socials:
