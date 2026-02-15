@@ -30,15 +30,22 @@ I enjoy solving complex problems, learning new technologies, and continuously im
 <h2>📊 GitHub Stats</h2>
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=SauravPandey56&show_icons=true&theme=tokyonight&hide_border=true" 
-  alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=SauravPandey56&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+  alt=""
+/>
+<br><br>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=SauravPandey56&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
+  alt=""
 />
 <br><br>
 
 <img 
   src="https://github-readme-activity-graph.vercel.app/graph?username=SauravPandey56&theme=tokyo-night&hide_border=true" 
-  alt="GitHub Activity Graph"
+  alt=""
 />
+
 
 
 
