@@ -47,13 +47,8 @@ I enjoy solving complex problems, learning new technologies, and continuously im
   />
   ---
 
-## 📊 GitHub Stats
 
-![Saurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=SauravPandey56&show_icons=true&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SauravPandey56&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SauravPandey56&layout=compact&theme=tokyonight&hide_border=true)
 
 </section>
 
