@@ -1,19 +1,4 @@
-# 👋 Hi, I'm Saurav Pandey  
-
-🎓 MCA Student | 💻 Full Stack Developer | 🚀 Aspiring Software Engineer  
-
-I am passionate about building scalable and user-friendly web applications. I enjoy solving problems, learning new technologies, and converting ideas into real-world digital solutions.
-
----
-
-## 🛠 Tech Stack & Skills
-
-- 💻 Languages: Java, JavaScript  
-- 🌐 Frontend: React.js, HTML, CSS, Tailwind CSS  
-- ⚙️ Backend: Node.js, Express.js  
-- 📊 Database: MySQL / MongoDB 
-- 🧩 Core: Data Structures & Algorithms  
-- 🔧 Tools: Git, GitHub, VS Code  
+<img width="911" height="1040" alt="image" src="https://github.com/user-attachments/assets/78c7e42a-6d67-4182-ab8f-a1f6dc8115a0" />
 
 ---
 
