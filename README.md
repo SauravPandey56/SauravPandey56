@@ -65,7 +65,7 @@ I regularly practice Data Structures & Algorithms to improve analytical thinking
 - 🔹 GeeksforGeeks: https://auth.geeksforgeeks.org/user/sauravpandey56  
 - 🔹 CodeChef: https://www.codechef.com/users/pandeysaurav10  
 - 🔹 Codeforces: https://codeforces.com/profile/pandeysaurav108
--    Codolio:https://codolio.com/profile/pandey@56
+- 🔹 Codolio:https://codolio.com/profile/pandey@56
 
 
 
