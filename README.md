@@ -61,7 +61,7 @@ I enjoy solving complex problems, learning new technologies, and continuously im
 
 I regularly practice Data Structures & Algorithms to improve analytical thinking and coding efficiency.
 
-- 🔹Codolio:https://codolio.com/profile/pandey@56
+- 🔹Codolio:https://codolio.com/profile/sauravpandey
 - 🔹LeetCode: https://leetcode.com/pandeysaurav108
 - 🔹GeeksforGeeks: https://auth.geeksforgeeks.org/user/sauravpandey56  
 - 🔹CodeChef: https://www.codechef.com/users/pandeysaurav10  
