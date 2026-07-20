@@ -29,9 +29,8 @@ I enjoy solving complex problems, learning new technologies, and continuously im
 
 <h2>📊 GitHub Stats</h2>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=SauravPandey56&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-  alt=""
+<img
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=SauravPandey56&show_icons=true&theme=tokyonight&hide_border=true"
 />
 <br><br>
 
