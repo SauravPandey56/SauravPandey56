@@ -35,7 +35,7 @@ src="https://github-readme-stats-sigma-five.vercel.app/api?username=SauravPandey
 <br><br>
 
 <img
-  src="https://streak-stats.demolab.com?user=SauravPandey56&theme=tokyonight&hide_border=true&v=1"
+  src="https://streak-stats.demolab.com?user=SauravPandey56&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
 <br><br>
